@@ -1,0 +1,3 @@
+this is an awesome txt from the Platzi course of git and github. 
+
+I hope this english is not worng, if is wrong i try to change during the course... i hope
